@@ -1,0 +1,22 @@
+{
+    "schemaVersion": 1,
+    "id": "itemnbt-kotlin",
+    "version": "${version}",
+    "name": "ItemNBT Kotlin",
+    "description": "Kotlin extensions, utilities and APIs specific to the ItemNBT project.",
+    "authors": [
+        "RedGrapefruit09"
+    ],
+    "contact": {
+        "repo": "https://github.com/RedGrapefruit09/ItemNBT-Kotlin"
+    },
+    "license": "MIT",
+    "icon": "assets/itemnbt-kotlin/icon.png",
+    "environment": "*",
+    "entrypoints": {},
+    "depends": {
+        "fabricloader": ">=0.12.12",
+        "fabric": "*",
+        "minecraft": "1.18.1"
+    }
+}
